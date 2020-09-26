@@ -1,0 +1,24 @@
+h3{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: right;
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    color: #000000;
+    max-width: 1320px;
+	margin: 0px;
+    padding: 0px 0px;
+	position: absolute;
+	left: 1050px;
+ }
+a{
+    text-decoration: none;
+}
+
+.enla
+{
+	color #ffffff;
+}
+
+/*  background: #f2f2f2; color de fondo de inicio*/
